@@ -1,0 +1,45 @@
+---
+layout: post
+title: Uggh.. I must restart good habits
+subtitle: Recapping Jun-Sept 2021
+tags: [2021]
+comments: true
+---
+## I just did a Greenday, I woke up now that september has ended. 
+
+I have procrastinating about writing this blog for 4 months now it would seem. It has all been good in retrospect. There were some depressive episodes, but those are no fun, and i guess everybody gets them time and now, but all feels good at the moment, so here I am trying to restart a good habit that I had started this year.Frankly, I am not going to attempt to recall the humdrum of the last 4 months (jesus, it has been long hasn't it ?), so this is going to be an attempt at giving the highlights of the past 4 months, and then hit the road running next month, with a detailed report of what all we did in October.
+
+
+
+### Recapping June - September 2021
+
+It is true that you can only remember the higs and the lows, the normal humdrum does get tuned out of your memory. I did manage to travel to a couple of places - Went to Phillaur, Bike trip to Hisar and Kasauli, Delhi - where I met some old and new friends, went on a hike to Churdhar which was fun. 
+I also started learning and playing golf, which is fun. Golf started out as an activity I could do with my father, in my head I thought it would be a good father-son bonding excercise, out on the fairway, swinging the golf clubs, talking about life's big questions. Well I guess it isn't meant to be, Father has not yet taken a liking to the game, so my dreams and wishes are reduced to that only. 
+Got my second dose of vaccination also during this time, there was pretty stressful phase with anxiety over the availability of the vaccine, with the second wave of the covid19 raging on.
+I also had a phase which a lasted a couple of days/weeks where I was sad and deprression-y, but i bottled it up and buried it up, which I am sure will be a problem for future Dhruv. I also attempted to bake some bread, which did not turn out that bad. 
+In other activities, did try my hand at carpentry, with that fallen tree branches, yeah it was a waste of time.
+I also realized that with time, not only did I lose my zeal for fitness, but also my fitness, work was slightly hectic and could not go for my runs with golf practice in the morning, however now I have joined a gym, and am hoping to reach my fit self in the next couple of months.
+
+#### Personal Development
+* AWS, Devops, Docker, CI/CD pipeline, Github Actions - While there is a lot to learn here, but i did potentially learn basics of all of these, enough to inititate a conversation and understand the conversation between the DevOps folks
+* Software best practices - As i delved more into the DevOps side of things, I also got a chance to experience production level code, again still a work in progress, however did pick up basics of OOPs, git, logging etc.
+* I also picked up a end to end to trading app, this project uses the Kiteconnect library to build out a complete trading application, with order manager and trade manager etc.
+
+#### Other interests
+* Nothing of note here. Did watch a lot of TV/ Movies etc
+
+
+#### Books/ Audiobooks/ Podcasts
+* Elearn Markets - podcasts/ youtube videos
+
+#### Excercise/ Workout
+
+* gym + golf
+
+#### Projects
+
+* Project Gecco - Did not touch this too much in the last couple of months. Have to restart this again.
+
+* Project McDuck - Same old story. Blew up my account again, after making good money. But I did watch a lot of these trading videos, automated a FnO strategy and intraday equity strategy. Both of them failed to give consistent returns. I also realized that while I have always been a very cautious/ risk averse individual, that did not translate in my trading. I am now attempting to follow a more systematic approach of selling spreads, and small scalps in option buying & sticking to expiry trading. This has the advantage of being able to automate using algos/ rules as well as does not take too much of my attention, enabling me to focus on my primary work. Hopefully, this will turn out to be an automated secondary source of capital appreciation soon.
+
+
